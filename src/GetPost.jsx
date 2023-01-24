@@ -25,7 +25,6 @@ class App extends React.Component{
         if (!DataisLoaded) return <div className="m-0 row justify-content-center">
             <div className="spinner-grow text-muted"></div>
             <div className="spinner-grow text-muted"></div>
-
             <div className="spinner-grow text-primary"></div>
             <div className="spinner-grow text-success"></div>
             <div className="spinner-grow text-info"></div>
@@ -38,7 +37,6 @@ class App extends React.Component{
         return(
             <>
             <Container>
-                <div>Hola mundo</div>
                  <Table>
                         {
                             items.map((item) => ( 
