@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DEMO COMPUCLOUD
+          DEMO COMPUCLOUD para Dou you Kare
         </p>
         <a
           className="App-link"
